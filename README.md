@@ -4,7 +4,8 @@
 
 2. **Run the Script**: Open a terminal or command prompt, navigate to the directory containing the script, and run the following command:
     ```bash
-    python port_scanner.py
+    sudo apt-get install python3
+    sudo python3 port_scanner.py
     ```
 
 3. **Follow the Prompts**: You'll be prompted to enter the target host (IP address or domain) and the range of ports you want to scan.
